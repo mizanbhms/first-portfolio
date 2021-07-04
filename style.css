@@ -13,6 +13,7 @@ h1{
 h2{
     padding-left: 30px;
     padding-right: 30px;
+    font-size: 40px;
     
 }
 h3{
@@ -79,6 +80,20 @@ P{
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
+    border-radius: 20px;
+    
+}
+#box1{
+    border-left: 10px solid;
+    border-image: linear-gradient(red, blue) ;
+    border-image-slice: 1;
+    border-radius: 20px;
+}
+   
+#box2{
+    border-left: 10px solid;
+    border-image: linear-gradient(orange, red);
+    border-image-slice: 1;
 }
 
     
