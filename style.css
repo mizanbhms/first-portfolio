@@ -26,6 +26,7 @@ section{
 }
 P{
     font-size: 30px;
+
 }
 .linkbutton{
     text-decoration: none;
@@ -42,6 +43,13 @@ P{
     font-size: 30px;
    
 }
-
+.lorem{
+    padding-top: 200px;
+   padding-left: 30px;
+   padding-right: 30px;
+}
+.third{
+    display: flex;
+}
 
     
